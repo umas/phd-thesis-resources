@@ -1,2 +1,2 @@
-# phd-thesis-resources
-This directory contains the resources created during Uma Sawant's PhD thesis. 
+# Resources
+This directory contains resources created during Uma Sawant's PhD thesis. 
